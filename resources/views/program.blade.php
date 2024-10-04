@@ -23,9 +23,9 @@
                 <div>
                     <p class="mx-[42px] text-justify text-[#4D607D] text-[22px] mt-[42px]">Universitas Pertamina welcome international students who wants obtain bachelor degree. We offer undergraduate program spread into <span class="font-bold">6 Faculty and 15 study programs</span> you can choose.</p>
                 </div>
-                <div class="mx-auto mt-[32px] text-white bg-[#275DCB] w-[435px] flex justify-center rounded-md hover:bg-[#2b467c] transition duration-300">
-                    <a href="#" class="text-[20px] font-bold py-[30px]">{{ __('APPLY NOW') }}</a>
-                </div>
+                <a href="#" class="mx-auto mt-[32px] text-white bg-[#275DCB] w-[435px] flex justify-center rounded-md hover:bg-[#2b467c] transition duration-300">
+                    <p class="text-[20px] font-bold py-[30px]">{{ __('APPLY NOW') }}</p>
+                </a>
             </div>
         </div>
         <div class="w-1/2 flex flex-col items-center">
@@ -37,9 +37,9 @@
                 <div>
                     <p class="mx-[42px] text-justify text-[#4D607D] text-[22px] mt-[42px]">We have programs for inbound and outbound student.</p>
                 </div>
-                <div class="mx-auto mt-[165px] text-white bg-[#275DCB] w-[435px] flex justify-center rounded-md hover:bg-[#2b467c] transition duration-300">
-                    <a href="#" class="text-[20px] font-bold py-[30px]">{{ __('CHOOSE YOUR PROGRAM') }}</a>
-                </div>
+                <a href="#" class="mx-auto mt-[165px] text-white bg-[#275DCB] w-[435px] flex justify-center rounded-md hover:bg-[#2b467c] transition duration-300">
+                    <p class="text-[20px] font-bold py-[30px]">{{ __('CHOOSE YOUR PROGRAM') }}</p>
+                </a>
             </div>
         </div >
     </div>

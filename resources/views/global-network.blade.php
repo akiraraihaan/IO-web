@@ -15,22 +15,8 @@
                 <div class="h-[832px] w-[1337px]">
                     <img src="./img/global-network-people-2.png" class="z-0">
                     <div class="z-10 relative -mt-[450px] flex flex-row justify-center">
-                        <div class="w-[530px] h-[188px] bg-white mx-[50px] rounded-2xl text-center hover:bg-slate-200 transition duration-300">
-                            <a href="#" class="w-full flex justify-center mt-12">
-                                <img src="./img/intl-icon.png" class="h-[46px] w-[49px]">
-                            </a>
-                            <div class="text-[#1F4894] text-[28px] font-semibold mt-4">
-                                <a href="#">{{ __('International Collaboration') }}</a>
-                            </div>
-                        </div>
-                        <div class="w-[530px] h-[188px] bg-white mx-[50px] rounded-2xl text-center hover:bg-slate-200 transition duration-300">
-                            <a href="#" class="w-full flex justify-center mt-12">
-                                <img src="./img/collab-icon.png" class="h-[46px] w-[49px]">
-                            </a>
-                            <div class="text-[#1F4894] text-[28px] font-semibold mt-4">
-                                <a href="#">{{ __('Collaboration With Us') }}</a>
-                            </div>
-                        </div>
+                        <x-white-card>{{ __('International Collaboration') }}</x-white-card>
+                        <x-white-card>{{ __('Collaboration With Us') }}</x-white-card>
                     </div>
                 </div>
             </div>

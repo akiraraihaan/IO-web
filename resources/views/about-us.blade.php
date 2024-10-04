@@ -74,7 +74,7 @@
                         </div>
                         <div class="w-full flex flex-col items-center">
                             <div class="flex flex-col items-center">
-                                <p class="text-[#161E2B] text-[24px] font-semibold mt-3">{{__('Amanda Putri')}}</p>
+                                <a href="#" class="text-[#161E2B] text-[24px] hover:underline font-semibold mt-3">{{__('Amanda Putri')}}</a>
                                 <div class="h-[2px] w-[212px] bg-[#C4D25A] mt-2"></div>
                             </div>
                             <p class="mx-auto my-4 w-fit text-[#4D607D] text-[18px] text-center">Research and <br> Development Staff</p>
@@ -86,7 +86,7 @@
                         </div>
                         <div class="w-full flex flex-col items-center">
                             <div class="flex flex-col items-center">
-                                <p class="text-[#161E2B] text-[24px] font-semibold mt-3">{{__('Amanda Putri')}}</p>
+                                <a href="#" class="text-[#161E2B] text-[24px] hover:underline font-semibold mt-3">{{__('Amanda Putri')}}</a>
                                 <div class="h-[2px] w-[212px] bg-[#C4D25A] mt-2"></div>
                             </div>
                             <p class="mx-auto my-4 w-fit text-[#4D607D] text-[18px] text-center">Research and <br> Development Staff</p>
@@ -98,7 +98,7 @@
                         </div>
                         <div class="w-full flex flex-col items-center">
                             <div class="flex flex-col items-center">
-                                <p class="text-[#161E2B] text-[24px] font-semibold mt-3">{{__('Amanda Putri')}}</p>
+                                <a href="#" class="text-[#161E2B] text-[24px] hover:underline font-semibold mt-3">{{__('Amanda Putri')}}</a>
                                 <div class="h-[2px] w-[212px] bg-[#C4D25A] mt-2"></div>
                             </div>
                             <p class="mx-auto my-4 w-fit text-[#4D607D] text-[18px] text-center">Research and <br> Development Staff</p>
@@ -110,7 +110,7 @@
                         </div>
                         <div class="w-full flex flex-col items-center">
                             <div class="flex flex-col items-center">
-                                <p class="text-[#161E2B] text-[24px] font-semibold mt-3">{{__('Amanda Putri')}}</p>
+                                <a href="#" class="text-[#161E2B] text-[24px] hover:underline font-semibold mt-3">{{__('Amanda Putri')}}</a>
                                 <div class="h-[2px] w-[212px] bg-[#C4D25A] mt-2"></div>
                             </div>
                             <p class="mx-auto my-4 w-fit text-[#4D607D] text-[18px] text-center">Research and <br> Development Staff</p>
@@ -125,5 +125,5 @@
         <a href="" class="bg-blue-600 rounded-full w-[14px] h-[14px] mx-1 opacity-[0.71]"></a>
         <a href="" class="bg-blue-600 rounded-full w-[14px] h-[14px] mx-1 opacity-[0.36]"></a>
     </div>
-    
+
 </x-layout>
