@@ -195,8 +195,18 @@
             <div>
                 <p class="text-[#1F4894] text-center text-4xl font-semibold mb-6">Video Profile of Universitas Pertamina</p>
             </div>
-            <div class="w-90 flex justify-center rounded-xl overflow-hidden ">
-                <a href="https://www.youtube.com/watch?v=rvB5LsROYbQpp=ygUjdW5pdmVyc2l0YXMgcGVydGFtaW5hIHByb2ZpbGUgdmlkZW8%3D" class="w-2/3"><img src="./img/profile-video-display.png" class="opacity-100 hover:opacity-50 hover:drop-shadow-xl transition duration-500"></a>
+            <div class="w-90 flex justify-center rounded-xl overflow-hidden">
+                <div class="w-2/3">
+                    <iframe
+                    src="https://www.youtube.com/embed/rvB5LsROYbQ"
+                    class="w-full h-64 rounded-xl"
+                    width="575" height="450"
+                    title="Universitas Pertamina Profile Video"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowfullscreen>
+                    </iframe>
+                </div>
             </div>
         </div>
 

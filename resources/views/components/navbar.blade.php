@@ -21,7 +21,7 @@
         </x-nav-link>
 
         <x-nav-link :href="route('contact-us')" :active="request()->routeIs('contact-us')">
-            {{ __('Contact us and Updates') }}
+            {{ __('Contact Us and Updates') }}
         </x-nav-link>
     </div>
     <div class="content-center ml-auto my-[16px] mr-[60px] bg-[#1F4894] rounded-[5px] hover:bg-blue-700 transition duration-700">
